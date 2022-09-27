@@ -1,0 +1,6 @@
+Commit:         Envia as alterações dos arquivos para o Repository local.
+Commit e Push:  Envia as alterações dos arquivos para o Repository local e também para o Repository remoto.
+Revert:         Volta o seu código local para a versão atual do repository remoto.
+Clonar:         Copia todo o projeto do repository remoto para o seu computador local.
+Git Ignore:     Ignora os arquivos que não podem ser enviados para os repository remoto.
+Pull:           Atualiza o seu projeto local com a mudanças encontradas no ropository remoto.
